@@ -1,0 +1,70 @@
+# Runtime
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+
+# Generated Fabric
+.fabric/
+.mixin.out/
+libraries/
+versions/
+
+# Server runtime
+server.properties
+eula.txt
+ops.json
+whitelist.json
+banned-ips.json
+banned-players.json
+usercache.json
+
+# Secrets
+config/floodgate/key.pem
+EasyAuth/
+.rcon-cli.env
+.rcon-cli.yaml
+
+# Java
+.java/
+
+# Spark
+config/spark/activity.json
+config/spark/tmp/
+
+# Hydraulic debug
+config/hydraulic/debug/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret
+.env
+
+# Ubuntu user files
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.wget-hsts
+
+# Fabric installer/runtime
+.fabric-manifest.json
+.install-fabric.env
+fabric-installer.jar
+fabric-server-launch.jar
+fabric-server-launcher.properties
+fabric-server-*.jar
+installer.json
+server.jar
+
+# Geyser cache
+config/Geyser-Fabric/cache/
+
+# Hydraulic cache
+config/hydraulic/cache/
+
+# SkinRestorer cache
+config/skinrestorer/mojang_profile_cache.json

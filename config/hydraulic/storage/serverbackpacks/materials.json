@@ -1,0 +1,727 @@
+{
+  "materials": {
+    "serverbackpacks:item/model/light_blue_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_blue_medium",
+        "layer1": "serverbackpacks:item/model/light_blue_medium"
+      }
+    },
+    "serverbackpacks:item/model/light_gray_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_gray_small",
+        "layer1": "serverbackpacks:item/model/light_gray_small"
+      }
+    },
+    "serverbackpacks:item/model/brown_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/brown_medium",
+        "layer1": "serverbackpacks:item/model/brown_medium"
+      }
+    },
+    "serverbackpacks:item/orange_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/orange_small",
+        "layer1": "serverbackpacks:item/orange_small"
+      }
+    },
+    "serverbackpacks:item/model/lava_backpack": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/lava_backpack",
+        "layer1": "serverbackpacks:item/model/lava_backpack"
+      }
+    },
+    "serverbackpacks:item/model/blue_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/blue_small",
+        "layer1": "serverbackpacks:item/model/blue_small"
+      }
+    },
+    "serverbackpacks:item/model/red_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/red_small",
+        "layer1": "serverbackpacks:item/model/red_small"
+      }
+    },
+    "serverbackpacks:item/model/white_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/white_large",
+        "layer1": "serverbackpacks:item/model/white_large"
+      }
+    },
+    "serverbackpacks:item/magenta_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/magenta_large",
+        "layer1": "serverbackpacks:item/magenta_large"
+      }
+    },
+    "serverbackpacks:item/model/orange_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/orange_large",
+        "layer1": "serverbackpacks:item/model/orange_large"
+      }
+    },
+    "serverbackpacks:item/ui/arrowleft": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/arrowleft",
+        "layer1": "serverbackpacks:item/ui/arrowleft"
+      }
+    },
+    "serverbackpacks:item/model/lime_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/lime_medium",
+        "layer1": "serverbackpacks:item/model/lime_medium"
+      }
+    },
+    "serverbackpacks:item/model/black_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/black_small",
+        "layer1": "serverbackpacks:item/model/black_small"
+      }
+    },
+    "serverbackpacks:item/lime_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/lime_small",
+        "layer1": "serverbackpacks:item/lime_small"
+      }
+    },
+    "serverbackpacks:item/model/global": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/global",
+        "layer1": "serverbackpacks:item/model/global"
+      }
+    },
+    "serverbackpacks:item/red_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/red_large",
+        "layer1": "serverbackpacks:item/red_large"
+      }
+    },
+    "serverbackpacks:item/model/green_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/green_large",
+        "layer1": "serverbackpacks:item/model/green_large"
+      }
+    },
+    "serverbackpacks:item/purple_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/purple_small",
+        "layer1": "serverbackpacks:item/purple_small"
+      }
+    },
+    "serverbackpacks:item/purple_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/purple_medium",
+        "layer1": "serverbackpacks:item/purple_medium"
+      }
+    },
+    "serverbackpacks:item/orange_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/orange_medium",
+        "layer1": "serverbackpacks:item/orange_medium"
+      }
+    },
+    "serverbackpacks:item/model/pink_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/pink_medium",
+        "layer1": "serverbackpacks:item/model/pink_medium"
+      }
+    },
+    "serverbackpacks:item/cyan_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/cyan_medium",
+        "layer1": "serverbackpacks:item/cyan_medium"
+      }
+    },
+    "serverbackpacks:item/global": {
+      "textures": {
+        "layer0": "serverbackpacks:item/global",
+        "layer1": "serverbackpacks:item/global"
+      }
+    },
+    "serverbackpacks:item/ui/search": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/search",
+        "layer1": "serverbackpacks:item/ui/search"
+      }
+    },
+    "serverbackpacks:item/cyan_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/cyan_large",
+        "layer1": "serverbackpacks:item/cyan_large"
+      }
+    },
+    "serverbackpacks:item/model/magenta_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/magenta_small",
+        "layer1": "serverbackpacks:item/model/magenta_small"
+      }
+    },
+    "serverbackpacks:item/light_gray_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_gray_medium",
+        "layer1": "serverbackpacks:item/light_gray_medium"
+      }
+    },
+    "serverbackpacks:item/black_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/black_large",
+        "layer1": "serverbackpacks:item/black_large"
+      }
+    },
+    "serverbackpacks:item/model/purple_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/purple_small",
+        "layer1": "serverbackpacks:item/model/purple_small"
+      }
+    },
+    "serverbackpacks:item/model/medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/medium",
+        "layer1": "serverbackpacks:item/model/medium"
+      }
+    },
+    "serverbackpacks:item/model/lime_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/lime_large",
+        "layer1": "serverbackpacks:item/model/lime_large"
+      }
+    },
+    "serverbackpacks:item/model/light_blue_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_blue_large",
+        "layer1": "serverbackpacks:item/model/light_blue_large"
+      }
+    },
+    "serverbackpacks:item/gray_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/gray_large",
+        "layer1": "serverbackpacks:item/gray_large"
+      }
+    },
+    "serverbackpacks:item/yellow_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/yellow_large",
+        "layer1": "serverbackpacks:item/yellow_large"
+      }
+    },
+    "serverbackpacks:item/model/pink_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/pink_large",
+        "layer1": "serverbackpacks:item/model/pink_large"
+      }
+    },
+    "serverbackpacks:item/model/lime_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/lime_small",
+        "layer1": "serverbackpacks:item/model/lime_small"
+      }
+    },
+    "serverbackpacks:item/magnet_upgrade": {
+      "textures": {
+        "layer0": "serverbackpacks:item/magnet_upgrade",
+        "layer1": "serverbackpacks:item/magnet_upgrade"
+      }
+    },
+    "serverbackpacks:item/base_large": {
+      "textures": {}
+    },
+    "serverbackpacks:item/model/large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/large",
+        "layer1": "serverbackpacks:item/model/large"
+      }
+    },
+    "serverbackpacks:item/light_gray_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_gray_large",
+        "layer1": "serverbackpacks:item/light_gray_large"
+      }
+    },
+    "serverbackpacks:item/base_small": {
+      "textures": {}
+    },
+    "serverbackpacks:item/red_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/red_medium",
+        "layer1": "serverbackpacks:item/red_medium"
+      }
+    },
+    "serverbackpacks:item/small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/small",
+        "layer1": "serverbackpacks:item/small"
+      }
+    },
+    "serverbackpacks:item/model/brown_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/brown_large",
+        "layer1": "serverbackpacks:item/model/brown_large"
+      }
+    },
+    "serverbackpacks:item/white_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/white_small",
+        "layer1": "serverbackpacks:item/white_small"
+      }
+    },
+    "serverbackpacks:item/model/purple_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/purple_medium",
+        "layer1": "serverbackpacks:item/model/purple_medium"
+      }
+    },
+    "serverbackpacks:item/model/light_blue_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_blue_small",
+        "layer1": "serverbackpacks:item/model/light_blue_small"
+      }
+    },
+    "serverbackpacks:item/yellow_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/yellow_small",
+        "layer1": "serverbackpacks:item/yellow_small"
+      }
+    },
+    "serverbackpacks:item/model/ender": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/ender",
+        "layer1": "serverbackpacks:item/model/ender"
+      }
+    },
+    "serverbackpacks:item/white_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/white_medium",
+        "layer1": "serverbackpacks:item/white_medium"
+      }
+    },
+    "serverbackpacks:item/ender": {
+      "textures": {
+        "layer0": "serverbackpacks:item/enderpack",
+        "layer1": "serverbackpacks:item/enderpack"
+      }
+    },
+    "serverbackpacks:item/black_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/black_medium",
+        "layer1": "serverbackpacks:item/black_medium"
+      }
+    },
+    "serverbackpacks:item/model/black_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/black_medium",
+        "layer1": "serverbackpacks:item/model/black_medium"
+      }
+    },
+    "serverbackpacks:item/model/purple_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/purple_large",
+        "layer1": "serverbackpacks:item/model/purple_large"
+      }
+    },
+    "serverbackpacks:item/model/yellow_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/yellow_small",
+        "layer1": "serverbackpacks:item/model/yellow_small"
+      }
+    },
+    "serverbackpacks:item/model/yellow_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/yellow_medium",
+        "layer1": "serverbackpacks:item/model/yellow_medium"
+      }
+    },
+    "serverbackpacks:item/model/orange_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/orange_small",
+        "layer1": "serverbackpacks:item/model/orange_small"
+      }
+    },
+    "serverbackpacks:item/model/light_gray_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_gray_medium",
+        "layer1": "serverbackpacks:item/model/light_gray_medium"
+      }
+    },
+    "serverbackpacks:item/model/small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/small",
+        "layer1": "serverbackpacks:item/model/small"
+      }
+    },
+    "serverbackpacks:item/model/cyan_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/cyan_small",
+        "layer1": "serverbackpacks:item/model/cyan_small"
+      }
+    },
+    "serverbackpacks:item/ui/skipleft": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/skipleft",
+        "layer1": "serverbackpacks:item/ui/skipleft"
+      }
+    },
+    "serverbackpacks:item/pink_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/pink_medium",
+        "layer1": "serverbackpacks:item/pink_medium"
+      }
+    },
+    "serverbackpacks:item/pink_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/pink_large",
+        "layer1": "serverbackpacks:item/pink_large"
+      }
+    },
+    "serverbackpacks:item/purple_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/purple_large",
+        "layer1": "serverbackpacks:item/purple_large"
+      }
+    },
+    "serverbackpacks:item/light_blue_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_blue_medium",
+        "layer1": "serverbackpacks:item/light_blue_medium"
+      }
+    },
+    "serverbackpacks:item/red_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/red_small",
+        "layer1": "serverbackpacks:item/red_small"
+      }
+    },
+    "serverbackpacks:item/magenta_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/magenta_medium",
+        "layer1": "serverbackpacks:item/magenta_medium"
+      }
+    },
+    "serverbackpacks:item/model/gray_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/gray_large",
+        "layer1": "serverbackpacks:item/model/gray_large"
+      }
+    },
+    "serverbackpacks:item/cyan_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/cyan_small",
+        "layer1": "serverbackpacks:item/cyan_small"
+      }
+    },
+    "serverbackpacks:item/crafting_upgrade": {
+      "textures": {
+        "layer0": "serverbackpacks:item/crafting_upgrade",
+        "layer1": "serverbackpacks:item/crafting_upgrade"
+      }
+    },
+    "serverbackpacks:item/model/white_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/white_medium",
+        "layer1": "serverbackpacks:item/model/white_medium"
+      }
+    },
+    "serverbackpacks:item/yellow_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/yellow_medium",
+        "layer1": "serverbackpacks:item/yellow_medium"
+      }
+    },
+    "serverbackpacks:item/black_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/black_small",
+        "layer1": "serverbackpacks:item/black_small"
+      }
+    },
+    "serverbackpacks:item/large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/large",
+        "layer1": "serverbackpacks:item/large"
+      }
+    },
+    "serverbackpacks:item/ui/slot": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/slot",
+        "layer1": "serverbackpacks:item/ui/slot"
+      }
+    },
+    "serverbackpacks:item/green_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/green_medium",
+        "layer1": "serverbackpacks:item/green_medium"
+      }
+    },
+    "serverbackpacks:item/model/red_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/red_large",
+        "layer1": "serverbackpacks:item/model/red_large"
+      }
+    },
+    "serverbackpacks:item/model/red_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/red_medium",
+        "layer1": "serverbackpacks:item/model/red_medium"
+      }
+    },
+    "serverbackpacks:item/lime_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/lime_medium",
+        "layer1": "serverbackpacks:item/lime_medium"
+      }
+    },
+    "serverbackpacks:item/jukebox_upgrade": {
+      "textures": {
+        "layer0": "serverbackpacks:item/jukebox_upgrade",
+        "layer1": "serverbackpacks:item/jukebox_upgrade"
+      }
+    },
+    "serverbackpacks:item/gray_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/gray_small",
+        "layer1": "serverbackpacks:item/gray_small"
+      }
+    },
+    "serverbackpacks:item/model/light_gray_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/light_gray_large",
+        "layer1": "serverbackpacks:item/model/light_gray_large"
+      }
+    },
+    "serverbackpacks:item/ui/skipright": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/skipright",
+        "layer1": "serverbackpacks:item/ui/skipright"
+      }
+    },
+    "serverbackpacks:item/model/cyan_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/cyan_large",
+        "layer1": "serverbackpacks:item/model/cyan_large"
+      }
+    },
+    "serverbackpacks:item/orange_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/orange_large",
+        "layer1": "serverbackpacks:item/orange_large"
+      }
+    },
+    "serverbackpacks:item/model/orange_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/orange_medium",
+        "layer1": "serverbackpacks:item/model/orange_medium"
+      }
+    },
+    "serverbackpacks:item/gray_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/gray_medium",
+        "layer1": "serverbackpacks:item/gray_medium"
+      }
+    },
+    "serverbackpacks:item/lime_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/lime_large",
+        "layer1": "serverbackpacks:item/lime_large"
+      }
+    },
+    "serverbackpacks:item/white_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/white_large",
+        "layer1": "serverbackpacks:item/white_large"
+      }
+    },
+    "serverbackpacks:item/pink_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/pink_small",
+        "layer1": "serverbackpacks:item/pink_small"
+      }
+    },
+    "serverbackpacks:item/model/yellow_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/yellow_large",
+        "layer1": "serverbackpacks:item/model/yellow_large"
+      }
+    },
+    "serverbackpacks:item/magenta_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/magenta_small",
+        "layer1": "serverbackpacks:item/magenta_small"
+      }
+    },
+    "serverbackpacks:item/brown_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/brown_medium",
+        "layer1": "serverbackpacks:item/brown_medium"
+      }
+    },
+    "serverbackpacks:item/model/pink_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/pink_small",
+        "layer1": "serverbackpacks:item/model/pink_small"
+      }
+    },
+    "serverbackpacks:item/model/blue_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/blue_medium",
+        "layer1": "serverbackpacks:item/model/blue_medium"
+      }
+    },
+    "serverbackpacks:item/void_upgrade": {
+      "textures": {
+        "layer0": "serverbackpacks:item/void_upgrade",
+        "layer1": "serverbackpacks:item/void_upgrade"
+      }
+    },
+    "serverbackpacks:item/green_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/green_small",
+        "layer1": "serverbackpacks:item/green_small"
+      }
+    },
+    "serverbackpacks:item/light_blue_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_blue_small",
+        "layer1": "serverbackpacks:item/light_blue_small"
+      }
+    },
+    "serverbackpacks:item/blue_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/blue_medium",
+        "layer1": "serverbackpacks:item/blue_medium"
+      }
+    },
+    "serverbackpacks:item/model/green_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/green_medium",
+        "layer1": "serverbackpacks:item/model/green_medium"
+      }
+    },
+    "serverbackpacks:item/ui/arrowright": {
+      "textures": {
+        "layer0": "serverbackpacks:item/ui/arrowright",
+        "layer1": "serverbackpacks:item/ui/arrowright"
+      }
+    },
+    "serverbackpacks:item/model/brown_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/brown_small",
+        "layer1": "serverbackpacks:item/model/brown_small"
+      }
+    },
+    "serverbackpacks:item/brown_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/brown_small",
+        "layer1": "serverbackpacks:item/brown_small"
+      }
+    },
+    "serverbackpacks:item/light_gray_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_gray_small",
+        "layer1": "serverbackpacks:item/light_gray_small"
+      }
+    },
+    "serverbackpacks:item/blue_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/blue_small",
+        "layer1": "serverbackpacks:item/blue_small"
+      }
+    },
+    "serverbackpacks:item/model/white_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/white_small",
+        "layer1": "serverbackpacks:item/model/white_small"
+      }
+    },
+    "serverbackpacks:item/lava_backpack": {
+      "textures": {
+        "layer0": "serverbackpacks:item/lava_backpack",
+        "layer1": "serverbackpacks:item/lava_backpack"
+      }
+    },
+    "serverbackpacks:item/model/green_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/green_small",
+        "layer1": "serverbackpacks:item/model/green_small"
+      }
+    },
+    "serverbackpacks:item/model/blue_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/blue_large",
+        "layer1": "serverbackpacks:item/model/blue_large"
+      }
+    },
+    "serverbackpacks:item/green_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/green_large",
+        "layer1": "serverbackpacks:item/green_large"
+      }
+    },
+    "serverbackpacks:item/base_medium": {
+      "textures": {}
+    },
+    "serverbackpacks:item/stonecutter_upgrade": {
+      "textures": {
+        "layer0": "serverbackpacks:item/stonecutter_upgrade",
+        "layer1": "serverbackpacks:item/stonecutter_upgrade"
+      }
+    },
+    "serverbackpacks:item/model/gray_small": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/gray_small",
+        "layer1": "serverbackpacks:item/model/gray_small"
+      }
+    },
+    "serverbackpacks:item/model/cyan_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/cyan_medium",
+        "layer1": "serverbackpacks:item/model/cyan_medium"
+      }
+    },
+    "serverbackpacks:item/model/black_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/black_large",
+        "layer1": "serverbackpacks:item/model/black_large"
+      }
+    },
+    "serverbackpacks:item/blue_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/blue_large",
+        "layer1": "serverbackpacks:item/blue_large"
+      }
+    },
+    "serverbackpacks:item/medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/medium",
+        "layer1": "serverbackpacks:item/medium"
+      }
+    },
+    "serverbackpacks:item/brown_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/brown_large",
+        "layer1": "serverbackpacks:item/brown_large"
+      }
+    },
+    "serverbackpacks:item/model/magenta_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/magenta_large",
+        "layer1": "serverbackpacks:item/model/magenta_large"
+      }
+    },
+    "serverbackpacks:item/model/gray_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/gray_medium",
+        "layer1": "serverbackpacks:item/model/gray_medium"
+      }
+    },
+    "serverbackpacks:item/light_blue_large": {
+      "textures": {
+        "layer0": "serverbackpacks:item/light_blue_large",
+        "layer1": "serverbackpacks:item/light_blue_large"
+      }
+    },
+    "serverbackpacks:item/model/magenta_medium": {
+      "textures": {
+        "layer0": "serverbackpacks:item/model/magenta_medium",
+        "layer1": "serverbackpacks:item/model/magenta_medium"
+      }
+    }
+  }
+}

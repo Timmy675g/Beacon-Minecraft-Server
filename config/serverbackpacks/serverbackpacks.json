@@ -1,0 +1,14 @@
+{
+  "disabled_backpacks": [],
+  "enable_upgrades": true,
+  "disabled_upgrades": [],
+  "placeable": true,
+  "allow_backups": true,
+  "breaks_with_flow": true,
+  "display_back": true,
+  "allow_skulker_boxes_in_backpacks": false,
+  "max_singular_backup_size": 15,
+  "max_multiple_backup_size": 50,
+  "global_backpack_size": 54,
+  "lava_backpack_size": 18
+}
